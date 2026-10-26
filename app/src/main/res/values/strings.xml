@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Кинопоиск</string>
+
+    <string name="errorEmptyData">Введите все данные для авторизации.</string>
+    <string name="errorWrongData">Введен неверный пароль или логин.</string>
+
+    <string name="tvTitleLog">Кинопоиск</string>
+    <string name="etLoginHint">Введите логин</string>
+    <string name="etPasswordHint">Введите пароль</string>
+    <string name="btnLogIn">Войти</string>
+    <string name="btnBack">Назад</string>
+
+    <string name="etSearchHint">Введите название фильма</string>
+    <string name="btnSearch">Найти</string>
+    <string name="btnGoToFav">Посмотреть Избранное</string>
+    <string name="errorEmptySearch">Поле поиска не должно быть пустым.</string>
+    <string name="errorNetwork">Ошибка при загрузке данных.</string>
+    <string name="errorGoodSave">Фильм добавлен в Избранное!</string>
+
+    <string name="tvDefaultItemTitle">Название фильма</string>
+    <string name="tvDefaultItemYear">2004</string>
+    <string name="tvDefaultItemGenre">Жанр: Фантастика, Драма</string>
+    <string name="tvDefaultItemLength">Время: 148 мин. / 02:28</string>
+
+    <string name="errorEmptyResult">Ничего не найдено.</string>
+    <string name="NoMovieDescription">Описание отсутствует.</string>
+    <string name="NoMovieGenre">Не указан</string>
+
+    <string name="tvDefaultMovieTitle">Название фильма</string>
+    <string name="tvRating">Рейтинг КП: -</string>
+    <string name="tvCountries">Страна: -</string>
+    <string name="tvYearAndLength">Год: - • Время: -</string>
+    <string name="detailYearOnly">Год: %1$s</string>
+    <string name="tvGenres">Жанр: -</string>
+    <string name="tvDescription">Полное описание сюжета фильма...</string>
+    <string name="tvNoteTitle">Ваша заметка к фильму:</string>
+    <string name="etUserNote">Введите ваши впечатления или оценку</string>
+    <string name="btnSave">Сохранить в Избранное</string>
+    <string name="btnDelete">Удалить из избранного</string>
+    <string name="errorGoodDelete">Фильм успешно удален!</string>
+    <string name="detailRating">Рейтинг КП: %1$s</string>
+    <string name="detailYearAndLength">Год: %1$s • Время: %2$s</string>
+    <string name="detailCountries">Страна: %1$s</string>
+    <string name="detailGenres">Жанр: %1$s</string>
+    <string name="itemLength">Время: %1$s мин.</string>
+    <string name="itemLengthEmpty">Время: -</string>
+
+    <string name="tvFavMovieTitle">Избранные фильмы</string>
+
+</resources>
